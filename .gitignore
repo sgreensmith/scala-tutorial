@@ -1,5 +1,8 @@
 # placeholder for .gitignore
 
+#scala
+*.class
+
 #intelliJ
 .idea/
 
